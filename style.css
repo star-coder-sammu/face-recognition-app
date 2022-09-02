@@ -1,0 +1,38 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #fdd50d, #ff6200, #cb11fa, #911ffd, #ffc7f2);
+}
+
+.header
+{
+	color: rgb(255, 255, 255);font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+h3{
+    font-family: cursive;
+    text-decoration-line: underline;
+    font-size: 40px;
+}
+
+.name_of_objects{
+    font-size: 18px;
+    text-decoration-color: aliceblue;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
